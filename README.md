@@ -2,4 +2,4 @@
 
 ## Bem-vindo ao livro de receitas
 
-- olalalalala
+- Strogonoff é bom
